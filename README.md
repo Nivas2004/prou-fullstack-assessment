@@ -77,7 +77,7 @@ Frontend	your deployed URL
 Backend	your Render/Railway URL
 GitHub Repository	https://github.com/Nivas2004/prou-fullstack-assessment
 
-Some Screenshots of my project
+Project Screenshots
 
 <div align="center">
 
@@ -91,6 +91,7 @@ Some Screenshots of my project
   <img src="https://github.com/Nivas2004/prou-fullstack-assessment/blob/main/Screenshot%202025-11-17%20201113.png?raw=true" width="700" />
 
 </div>
+
 
 
 ⚙️ Setup Instructions

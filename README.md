@@ -72,7 +72,7 @@ Full-Stack Integration
 ✔ API authorization (each user sees only their products)
 
 🚀 Live Demo (Optional If You Deploy)
-Service	URL
+Service	URL -> https://inventoryfrontend-v4ie.vercel.app/
 Frontend	your deployed URL
 Backend	your Render/Railway URL
 GitHub Repository	https://github.com/Nivas2004/prou-fullstack-assessment

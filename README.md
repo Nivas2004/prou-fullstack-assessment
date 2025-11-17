@@ -78,7 +78,8 @@ Backend	your Render/Railway URL
 GitHub Repository	https://github.com/Nivas2004/prou-fullstack-assessment
 
 Some Screenshots of my project
-![Alt text]([https://raw.githubusercontent.com/your-username/your-repo/main/image-name.png](https://github.com/Nivas2004/prou-fullstack-assessment/blob/main/Screenshot%202025-11-17%20201401.png?raw=true))
+![Project Screenshot](https://github.com/Nivas2004/prou-fullstack-assessment/blob/main/Screenshot%202025-11-17%20201401.png?raw=true)
+
 
 ⚙️ Setup Instructions
 📦 1. Clone Repository

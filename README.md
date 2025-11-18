@@ -73,8 +73,7 @@ Full-Stack Integration
 
 🚀 Live Demo (Optional If You Deploy)
 Live Web App Link -> https://inventoryfrontend-v4ie.vercel.app/
-Frontend	your deployed URL
-Backend	your Render/Railway URL
+Backend	url -> https://inventorybackend-6.onrender.com
 GitHub Repository	https://github.com/Nivas2004/prou-fullstack-assessment
 
 Project Screenshots
